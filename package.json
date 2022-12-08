@@ -1,0 +1,14 @@
+{
+  "name": "@redredgroup/react-browser-theme-detect",
+  "version": "1.0.0",
+  "description": "You can import the current browser theme from the react.",
+  "main": "index.ts",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "typescript": "^4.9.4"
+  }
+}
