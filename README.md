@@ -9,12 +9,12 @@ Add the dependency:
 
 ## NPM
 ```bash
-npm install react-browser-theme-detect
+npm install @redredgroup/react-browser-theme-detect
 ```
 
 ## Yarn
 ```bash
-yarn add react-browser-theme-detect
+yarn add @redredgroup/react-browser-theme-detect
 ```
 
 # Example
@@ -23,7 +23,7 @@ yarn add react-browser-theme-detect
 Import the package:
 
 ```js
-import { isTheme, isThemeLight, isThemeDark } from "react-browser-theme-detect";
+import { isTheme, isThemeLight, isThemeDark } from "@redredgroup/react-browser-theme-detect";
 ```
 
 Returns the String value for dark mode or light mode: 
